@@ -48,9 +48,10 @@ This project utilizes the CrewAI framework to automatically generate custom Crew
    - Create a `.env` file in the project root
    - Add your API keys:
      ```
-     OPENAI_API_KEY=your_openai_api_key
      SERPER_API_KEY=your_serper_api_key
+     
      ANTHROPIC_API_KEY=your_anthropic_api_key
+     OPENAI_API_KEY=your_openai_api_key
      ```
 
 ## Usage
