@@ -27,9 +27,9 @@ This project utilizes the CrewAI framework to automatically generate custom Crew
 
 - Python 3.7+
 - CrewAI library
-- Anthropic API key
+- Anthropic API key (optinal, for Claude model usage)
 - Serper API key
-- OpenAI API key (optional, for GPT model usage)
+- OpenAI API key (optional, for GPT model usage. (Either GPT key or Anthropic key is needed, at least 1 of them))
 
 ## Installation
 
